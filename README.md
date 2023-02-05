@@ -3,7 +3,7 @@
 Bot AFK para servidores de Minecraft Java/Bedrock
 
 ## 🚀 Começando
-Bot desenvolvido para entrar em servidores Java e Bedrock, para serviços de hospedagem quem tem empty timeout, sendo assim, ele entra no servidor e fica parado em grande parte do seu tempo, somente as vezes ele anda para não levar kick.
+Bot desenvolvido para entrar em servidores Java e Bedrock, onde o serviço de hospedagem tenha sistema empty timeout, sendo assim, ele entra no servidor e fica parado em grande parte do seu tempo, somente as vezes ele anda para não levar kick.
 
 ### 📋 Pré-requisitos
 
